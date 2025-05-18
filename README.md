@@ -24,4 +24,4 @@ p2a->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%
 
 p2b->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%202025-05-18%20123746.png)
 
-p2a->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%202025-05-18%20124654.png)
+p3a->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%202025-05-18%20124654.png)
