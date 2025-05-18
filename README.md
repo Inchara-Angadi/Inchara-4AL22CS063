@@ -64,3 +64,4 @@ FactorialServlet->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/mai
 
 CookieServlet->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%202025-05-18%20230728.png)
 
+PrimeServlet->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%202025-05-18%20235122.png)
