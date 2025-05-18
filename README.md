@@ -56,6 +56,6 @@ p5a->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%
 
 p5b->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%202025-05-18%20150454.png)
 
-p5c->()
+p5c->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%202025-05-18%20150552.png)
 
 p5d->()
