@@ -9,3 +9,5 @@ p1b_3->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screensho
 p1b_4->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%202025-05-17%20234439.png)
 
 p1b_5->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%202025-05-17%20235005.png)
+
+p1c_1->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%202025-05-18%20115311.png)
