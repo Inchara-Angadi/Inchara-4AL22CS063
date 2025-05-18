@@ -37,3 +37,5 @@ p3b_4->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screensho
 p3b_5->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%202025-05-18%20130951.png)
 
 p3c_6->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%202025-05-18%20131944.png)
+
+p3c_7->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%202025-05-18%20132705.png)
