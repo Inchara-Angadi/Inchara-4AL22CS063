@@ -63,7 +63,8 @@ p5d->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%
 FactorialServlet.java->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%202025-05-19%20094018.png)
                      ->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%202025-05-18%20225104.png)
 
-CookieServlet.java->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%202025-05-18%20230728.png)
+CookieServlet.java->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%202025-05-19%20092954.png)
+                  ->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%202025-05-18%20230728.png)
 
 PrimeServlet.java->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%202025-05-18%20235122.png)
 
