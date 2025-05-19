@@ -66,7 +66,8 @@ FactorialServlet.java->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blo
 CookieServlet.java->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%202025-05-19%20092954.png)
                   ->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%202025-05-18%20230728.png)
 
-PrimeServlet.java->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%202025-05-18%20235122.png)
+PrimeServlet.java->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%202025-05-19%20095001.png)
+                 ->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%202025-05-18%20235122.png)
 
 (SessionManagement)->index3.html->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%202025-05-19%20003258.png)
                    ->welcome.jsp->(https://github.com/Inchara-Angadi/Inchara-4AL22CS063/blob/main/Screenshot%202025-05-19%20003304.png)
